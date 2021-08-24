@@ -1,0 +1,35 @@
+#foto1{
+    border: solid black 2px;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    }
+    #foto2{
+        border: dashed blue 3px;
+        margin: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 200px;
+    }
+    #foto3{
+        border: double green 4px;
+        margin: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 200px;
+    }
+    #foto4{
+        border: groove rebeccapurple 5px;
+        margin: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 200px;
+    }
+    #foto5{
+        border: outset chocolate 6px;
+        margin: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 200px;
+    }
